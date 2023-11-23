@@ -20,10 +20,7 @@ Core Java // HTML // CSS // J2EE // SQL //MYSQL // Hibarnate // Springboot // Bo
 ## Other Common Github Profile Sections
 👩‍💻 I completed Java Full Stack Development course from J-Qspiders
 
-🧠 I'm currently learning Spring Boot
-
-🤔 I'm looking for a Job as a Java Developer
-
+🧠 I'm currently learning Angular,SpringBoot.Camunda
 
 📫 How to reach me: dhekwarankit@gmail.com
 
