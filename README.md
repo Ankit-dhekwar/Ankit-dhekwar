@@ -4,7 +4,7 @@
 
 # Hi, I'm Ankit! 👋
 
-I'm Ankit Dhekwar, working in a startup as software developer.
+I'm Ankit Dhekwar, working in a startup company as an software developer.
 
 ## 🛠 Skills
 Core Java // HTML // CSS // J2EE // SQL //MYSQL // Hibarnate // Springboot // BootStrap
