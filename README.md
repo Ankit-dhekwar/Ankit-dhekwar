@@ -1,11 +1,10 @@
 
 ## 🚀 About Me
-I'm Fresher
 
 
 # Hi, I'm Ankit! 👋
 
-i'm Ankit Dhekwar, a passionate self-taught full stack Java developer
+I'm Ankit Dhekwar, working in a startup as software developer.
 
 ## 🛠 Skills
 Core Java // HTML // CSS // J2EE // SQL //MYSQL // Hibarnate // Springboot // BootStrap
@@ -20,7 +19,7 @@ Core Java // HTML // CSS // J2EE // SQL //MYSQL // Hibarnate // Springboot // Bo
 ## Other Common Github Profile Sections
 👩‍💻 I completed Java Full Stack Development course from J-Qspiders
 
-🧠 I'm currently learning Angular,SpringBoot.Camunda
+🧠 I'm currently working as an external staff in a big MNC.
 
 📫 How to reach me: dhekwarankit@gmail.com
 
