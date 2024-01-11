@@ -7,7 +7,7 @@
 I'm Ankit Dhekwar, working in a startup company as an software developer.
 
 ## 🛠 Skills
-Core Java // HTML // CSS // J2EE // SQL //MYSQL // Hibarnate // Springboot // BootStrap
+Angular //Microservices // camunda // azure //git// javascript// java
 
 
 ## 🔗 Links
